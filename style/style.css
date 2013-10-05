@@ -1861,12 +1861,7 @@ margin:0px;
 	margin-bottom: 10px;
 }
 
-.serv-block h4{
-	color: #fff;
-	padding-bottom: 20px;
-}
-
-.serv-block h3{
+.serv-block h3, h4, h5, h6{
 	color: #fff;
 	padding-bottom: 20px;
 }
