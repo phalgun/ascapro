@@ -1983,6 +1983,10 @@ footer .copy{
 	margin-top: 10px;
 }
 
+.nounderline{
+	text-decoration: none !important
+}
+
 /* Responsive */
 
 @media (max-width: 480px){
