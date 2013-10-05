@@ -245,7 +245,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;
+	/*cursor:default;*/
 }
 
 .b-orange:hover{
@@ -265,7 +265,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;	
+	/*cursor:default;	*/
 }
 
 .b-purple:hover{
@@ -285,7 +285,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;		
+	/*cursor:default;		*/
 }
 
 .b-blue:hover{
@@ -305,7 +305,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;	
+	/*cursor:default;	*/
 }
 
 .b-green:hover{
@@ -325,7 +325,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;	
+	/*cursor:default;	*/
 }
 
 .b-black:hover{
@@ -345,7 +345,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;	
+	/*cursor:default;	*/
 }
 
 .b-lblue:hover{
@@ -365,7 +365,7 @@ border-top:0px;
 	-moz-transition:background 1s ease;
 	-o-transition:background 1s ease;
 	transition:background 1s ease;	
-	cursor:default;	
+	/*cursor:default;	*/
 }
 
 .b-red:hover{
@@ -2006,8 +2006,8 @@ footer .copy{
 	margin-top: 10px;
 }
 
-.nounderline{
-	text-decoration: none !important
+.nounderline:hover{
+	text-decoration: none !important;
 }
 
 /* Responsive */
