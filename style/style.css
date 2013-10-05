@@ -98,8 +98,23 @@ hr{
 	color: #666;
 }
 
-.big{
+.bigger{
 	font-size: 30px !important;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+
+.big17{
+	font-size: 17px !important;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+
+.big{
+	font-size: 20px !important;
 	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 10px;
 	font-weight: 300;
@@ -421,6 +436,8 @@ header .logo h1 a, header .logo h1 a:visited, header .logo h1 a:hover{
 
 header .logo .hmeta{
 	color: #777;
+	font-size: 17px;
+	font-weight: 300;
 }
 
 header .form{
@@ -1076,7 +1093,8 @@ color:#fff;
 /* Service Three */
 
 .service-three{
-	font-size: 13px;
+	font-size: 15px;
+	font-weight: 300;
 }
 
 .service-three .service-icon{
@@ -1845,7 +1863,7 @@ margin:0px;
 }
 
 .timatter{
-	background: #fafafa;
+	background: #ddd;
 	padding: 5px 10px;
 	margin-bottom: 20px;
 	font-size: 13px;
@@ -1861,9 +1879,14 @@ margin:0px;
 	margin-bottom: 10px;
 }
 
-.serv-block h3, h4, h5, h6{
+.serv-block h3, h4{
 	color: #fff;
 	padding-bottom: 20px;
+}
+
+
+.serv-block h5, h6{
+	color: #666;
 }
 
 .serv-block i{
