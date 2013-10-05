@@ -1,0 +1,20 @@
+find all gss-lsg machines using the config files 
+
+to install lrzsz
+
+- create a new component and codeline for a clone of noccgw
+ code changes might be required
+
+- update build specification 
+- modify akamake of clone of noccgw
+- add it to configure script 
+
+
+
+Tests for gss-lsg once it has been netdeployed - 
+
+Phase 1 
+
+- Create component, codeline and update build specs and get a successful build
+- Request machine
+- Netdeploy the component on the machine and regression test if 
