@@ -106,6 +106,14 @@ hr{
 }
 
 
+.aboutusbody{
+	font-size: 14px !important;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 10px;
+	font-weight: 300;
+	color: black;
+}
+
 .big17{
 	font-size: 17px !important;
 	font-family: 'Open Sans', sans-serif;
@@ -1217,7 +1225,7 @@ height:25px;
 width:25px;
 line-height:25px;
 margin:0px 5px 0px 0px;
-color:#fff;
+/*color:#fff;*/
 -webkit-transition:background 1s ease;
 -moz-transition:background 1s ease;
 -o-transition:background 1s ease;
@@ -1243,14 +1251,6 @@ background:#cb2027;
 
 i.linkedin{
 background:#0173b2;
-}
-
-.social i:hover{
-background:#000;
--webkit-transition:background 1s ease;
--moz-transition:background 1s ease;
--o-transition:background 1s ease;
-transition:background 1s ease;
 }
 
 .social a,.social a:visited,.social a:hover{
