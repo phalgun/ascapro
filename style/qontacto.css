@@ -1,0 +1,42 @@
+/*qontacto form custom style*/
+/* form container*/
+.qontacto-form-container{
+    
+}
+/* form */
+#qontacto-form{}
+/*header*/
+#qontacto-header{}
+/*formgroups(label+input container)*/
+#qontacto-form .form-group{
+	color: black;
+}
+/*labels*/
+#qontacto-form label{
+  	color: #666;
+  	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	float: left;
+	text-align: right;
+}
+/* inputs*/
+#qontacto-form .form-control{}
+/* send button*/
+#qontacto-send{
+	background-color: #dfdfdf;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+  	color: #666;
+  	font-weight: 400;
+	background-repeat: repeat-x;
+	font-size: 13px !important;
+  	margin: 0;
+ 	border: 0px;
+}
+
+#qontacto-send:hover{
+  background-color: #c8c8c8;
+}
